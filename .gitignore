@@ -1,0 +1,84 @@
+# ==========================================
+# macOS
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# ==========================================
+# Windows (na wszelki wypadek)
+# ==========================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ==========================================
+# Microsoft Office - pliki tymczasowe i lockowe
+# ==========================================
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.xls
+~$*.pptx
+~$*.ppt
+*.tmp
+
+# ==========================================
+# draw.io / diagrams.net
+# ==========================================
+*.drawio.bkp
+*.bkp
+*.dtmp
+
+# ==========================================
+# IDE / edytory
+# ==========================================
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ==========================================
+# LaTeX (jakby ktos uzywal)
+# ==========================================
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# ==========================================
+# Pliki tymczasowe / kopie zapasowe
+# ==========================================
+*.bak
+*.backup
+*.orig
+
+# ==========================================
+# Wyjatki - NIE ignoruj tych plikow
+# ==========================================
+!.gitkeep
+!.gitignore
+!.gitattributes
